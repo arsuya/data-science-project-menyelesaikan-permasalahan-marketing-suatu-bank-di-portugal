@@ -46,7 +46,7 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
 7. Masukkan data yang ingin diprediksi pada variabel X_new
 8. Tekan tombol run code
 9. Hasil prediksi akan keluar
-10. Bisa juga dengan mengakses link streamlit ini: https://belajar-penerapan-data-science-submission-2.streamlit.app/
+10. Bisa juga dengan mengakses link streamlit ini: https://menyelesaikan-permasalahan-marketing-suatu-bank-di-portugal.streamlit.app/
 
 ## Conclusion
 faktor-faktor yang mempengaruhi klien untuk berlangganan deposito berjangka dipengaruhi oleh berbagai faktor yang dapat dikelompokkan ke dalam kampanye pemasaran, keadaan ekonomi, dan faktor demografis.
