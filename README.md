@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Marketing Suatu Bank Portugal
+# Data Science Project: Menyelesaikan Permasalahan Marketing Suatu Bank Portugal
 
 ## Business Understanding
 Terdapat sebuah institusi perbankan di Portugal melakukan kampanye pemasaran langsung (melalui panggilan telepon). Tujuan utama dari kampanye ini adalah untuk mempromosikan deposito berjangka kepada klien. Sering kali, lebih dari satu kontak diperlukan untuk klien yang sama guna menentukan apakah mereka akan berlangganan deposito berjangka atau tidak. Oleh karena itu, perlu dianalisis faktor-faktor yang mempengaruhi klien untuk berlangganan deposito berjangka.
