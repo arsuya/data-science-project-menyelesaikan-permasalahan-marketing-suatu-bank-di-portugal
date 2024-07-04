@@ -36,7 +36,7 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
     ```
 4. Instal semua library yang dibutuhkan menggunakan perintah berikut.
     ```
-    pip install numpy==1.24.4 pandas==2.1.4 matplotlib==3.7.5 seaborn==0.13.2 scikit-learn==1.4.0 streamlit==1.36.0
+    pip install numpy==1.24.4 pandas==2.1.4 matplotlib==3.7.5 seaborn==0.13.2 scikit-learn==1.4.0 streamlit==1.36.0 xgboost==2.0.3
     ```
 5. Buka jupyter-notebook dengan menjalankan perintah berikut.
     ```
