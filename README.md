@@ -6,12 +6,9 @@ Terdapat sebuah institusi perbankan di Portugal melakukan kampanye pemasaran lan
 ### Permasalahan Bisnis
 Institusi perbankan di Portugal ingin meningkatkan efektivitas kampanye pemasaran langsung mereka untuk memaksimalkan jumlah klien yang berlangganan deposito berjangka. Berikut adalah beberapa permasalahan bisnis utama yang dihadapi oleh institusi perbankan di Portugal tersebut:
 
-1. Reputasi Institusi
-   Kampanye pemasaran yang kurang efektif dapat merusak citra institusi sebagai bank yang memahami dan memenuhi kebutuhan kliennya.
-2. Kehilangan Pendapatan
-   Setiap kampanye yang gagal menghasilkan pelanggan baru berarti potensi pendapatan dari deposito berjangka yang hilang.
-3. Ketidakpuasan Stakeholder
-   Ketidakmampuan untuk meningkatkan konversi dan efisiensi kampanye pemasaran dapat mengurangi kepercayaan klien, calon klien, dan stakeholder lainnya terhadap bank.
+1. Reputasi Institusi: Kampanye pemasaran yang kurang efektif dapat merusak citra institusi sebagai bank yang memahami dan memenuhi kebutuhan kliennya.
+2. Kehilangan Pendapatan: Setiap kampanye yang gagal menghasilkan pelanggan baru berarti potensi pendapatan dari deposito berjangka yang hilang.
+3. Ketidakpuasan Stakeholder: Ketidakmampuan untuk meningkatkan konversi dan efisiensi kampanye pemasaran dapat mengurangi kepercayaan klien, calon klien, dan stakeholder lainnya terhadap bank.
 
 ### Cakupan Proyek
 1. Mengumpulkan dan memproses data yang diberikan oleh suatu Institusi perbankan di Portugal.
